@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zenfocus/static/css/main.725a930a.css",
+    "main.js": "/zenfocus/static/js/main.70df68ad.js",
+    "static/media/fuji.jpg": "/zenfocus/static/media/fuji.be1c550381d8f757f7bc.jpg",
+    "index.html": "/zenfocus/index.html",
+    "main.725a930a.css.map": "/zenfocus/static/css/main.725a930a.css.map",
+    "main.70df68ad.js.map": "/zenfocus/static/js/main.70df68ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.725a930a.css",
+    "static/js/main.70df68ad.js"
+  ]
+}
