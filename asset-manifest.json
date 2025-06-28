@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Yuzairen/ZenFocus.git/static/css/main.13722e4d.css",
-    "main.js": "/Yuzairen/ZenFocus.git/static/js/main.70df68ad.js",
-    "static/media/fuji.jpg": "/Yuzairen/ZenFocus.git/static/media/fuji.be1c550381d8f757f7bc.jpg",
-    "index.html": "/Yuzairen/ZenFocus.git/index.html",
-    "main.13722e4d.css.map": "/Yuzairen/ZenFocus.git/static/css/main.13722e4d.css.map",
-    "main.70df68ad.js.map": "/Yuzairen/ZenFocus.git/static/js/main.70df68ad.js.map"
+    "main.css": "/ZenFocus/static/css/main.7590426f.css",
+    "main.js": "/ZenFocus/static/js/main.70df68ad.js",
+    "static/media/fuji.jpg": "/ZenFocus/static/media/fuji.be1c550381d8f757f7bc.jpg",
+    "index.html": "/ZenFocus/index.html",
+    "main.7590426f.css.map": "/ZenFocus/static/css/main.7590426f.css.map",
+    "main.70df68ad.js.map": "/ZenFocus/static/js/main.70df68ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.13722e4d.css",
+    "static/css/main.7590426f.css",
     "static/js/main.70df68ad.js"
   ]
 }
